@@ -12,7 +12,7 @@
 9) Выводы
 Источник датасета:https://www.kaggle.com/datasets/devzohaib/eligibility-prediction-for-loan  
 Описание датасета:  
-Loan_ID:  Уникальный идентификатор кредита. 
+ Loan_ID:  Уникальный идентификатор кредита. 
 Gender:   Пол заявителя (Мужской/Женский).
 Married: Состоит ли заявитель в браке (Да/Нет).
 Dependents:  Количество иждивенцев.
