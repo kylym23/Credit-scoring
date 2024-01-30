@@ -1,1 +1,1 @@
-# -redit-scoring
+# Credit-scoring-model
